@@ -1,0 +1,226 @@
+{
+  "basic": {
+    "name": "James Yong",
+    "email": "me@jamesyong42.com",
+    "linkedin": "https://www.linkedin.com/in/jamesyong42/",
+    "resume": "RESUME_JAMESYONG_2024_DUKE_GDDI.pdf"
+  },
+  "home": {
+    "heroSentence": "a professional game developer",
+    "projects": [
+      {
+        "name": "Lorem Ipsum1",
+        "year": "2024",
+        "keywords": ["Unreal Engine", "Shader"],
+        "shortDesc": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+        "coverImage": "/projects/cleo/cover.jpg",
+        "roles": ["Sole Developer", "Co-designer"],
+        "highlights": [
+          "Innovated a ping-pong rendering system for seamless scene transitions.",
+          "Engineered a browser-based scene editor for real-time animation editing by animators.",
+          "Conceptualized and implemented interactive particle effects and sand transitions using shader.",
+          "Developed sophisticated lighting effects."
+        ],
+        "detail": [
+          {
+            "type": "paragraph",
+            "value": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+          },
+          {
+            "value": "/projects/cleo/1.jpg",
+            "type": "image"
+          },
+          {
+            "value": "/projects/cleo/1.mp4",
+            "type": "video-muted"
+          },
+          {
+            "value": "/projects/cleo/2.mp4",
+            "type": "video-muted"
+          },
+          {
+            "value": "/projects/cleo/3.mp4",
+            "type": "video-muted"
+          },
+          {
+            "value": "/projects/cleo/4.mp4",
+            "type": "video-muted"
+          },
+          {
+            "value": "/projects/cleo/5.mp4",
+            "type": "video-muted"
+          },
+          {
+            "value": "/projects/cleo/6.mp4",
+            "type": "video-muted"
+          },
+          {
+            "value": "/projects/cleo/7.mp4",
+            "type": "video-muted"
+          }
+        ]
+      },
+      {
+        "name": "Lorem Ipsum2",
+        "year": "2024",
+        "keywords": ["Unreal Engine", "Shader"],
+        "shortDesc": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+        "coverImage": "/projects/bca/cover.jpg",
+        "roles": ["Sole Developer", "Co-designer"],
+        "highlights": [
+          "Innovated a ping-pong rendering system for seamless scene transitions.",
+          "Engineered a browser-based scene editor for real-time animation editing by animators.",
+          "Conceptualized and implemented interactive particle effects and sand transitions using shader.",
+          "Developed sophisticated lighting effects."
+        ],
+        "detail": [
+          {
+            "type": "paragraph",
+            "value": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+          },
+          {
+            "value": "/projects/bca/reel.mp4",
+            "type": "video"
+          },
+          {
+            "value": "/projects/bca/1.jpg",
+            "type": "image"
+          },
+          {
+            "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "type": "paragraph"
+          },
+          {
+            "value": "/projects/bca/2.jpg",
+            "type": "image"
+          },
+          {
+            "value": "/projects/bca/3.jpg",
+            "type": "image"
+          }
+        ]
+      },
+      {
+        "name": "Lorem Ipsum3",
+        "year": "2024",
+        "keywords": ["Unreal Engine", "Shader"],
+        "shortDesc": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+        "coverImage": "/projects/cvd/cover.jpg",
+        "roles": ["Sole Developer", "Co-designer"],
+        "highlights": [
+          "Innovated a ping-pong rendering system for seamless scene transitions.",
+          "Engineered a browser-based scene editor for real-time animation editing by animators.",
+          "Conceptualized and implemented interactive particle effects and sand transitions using shader.",
+          "Developed sophisticated lighting effects."
+        ],
+        "detail": [
+          {
+            "type": "paragraph",
+            "value": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+          },
+          {
+            "value": "/projects/cvd/reel.mp4",
+            "type": "video"
+          },
+          {
+            "value": "/projects/cvd/1.jpg",
+            "type": "image"
+          },
+          {
+            "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "type": "paragraph"
+          },
+          {
+            "value": "/projects/cvd/2.mp4",
+            "type": "video-muted"
+          },
+          {
+            "value": "/projects/cvd/3.jpg",
+            "type": "image"
+          },
+          {
+            "value": "/projects/cvd/3.mp4",
+            "type": "video-muted"
+          },
+          {
+            "value": "/projects/cvd/4.mp4",
+            "type": "video-muted"
+          }
+        ]
+      },
+      {
+        "name": "Lorem Ipsum4",
+        "year": "2024",
+        "keywords": ["Unreal Engine", "Shader"],
+        "shortDesc": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+        "coverImage": "/projects/pbd/cover.jpg",
+        "roles": ["Sole Developer", "Co-designer"],
+        "highlights": [
+          "Innovated a ping-pong rendering system for seamless scene transitions.",
+          "Engineered a browser-based scene editor for real-time animation editing by animators.",
+          "Conceptualized and implemented interactive particle effects and sand transitions using shader.",
+          "Developed sophisticated lighting effects."
+        ],
+        "detail": [
+          {
+            "type": "paragraph",
+            "value": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+          },
+          {
+            "value": "/projects/pbd/reel.mp4",
+            "type": "video"
+          },
+          {
+            "value": "/projects/pbd/1.jpg",
+            "type": "image"
+          },
+          {
+            "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "type": "paragraph"
+          },
+          {
+            "value": "/projects/pbd/1.mp4",
+            "type": "video-muted"
+          },
+          {
+            "value": "/projects/pbd/2.mp4",
+            "type": "video-muted"
+          },
+          {
+            "value": "/projects/pbd/3.jpg",
+            "type": "image"
+          }
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "group": "Technical Skills",
+        "skills": [
+          "Programming Languages: C++, Python, JavaScript",
+          "Game Engines: Unreal Engine, Unity",
+          "Tools/Frameworks: Git, Three.js, LiquidFun, Blender"
+        ]
+      },
+      {
+        "group": "Creative Skills",
+        "skills": [
+          "3D Modeling: Blender, Maya",
+          "Graphics/Shader Programming: GLSL, WebGL",
+          "Level Design: Unreal Engine Level Editor, Unity Terrain"
+        ]
+      },
+      {
+        "group": "Soft Skills",
+        "skills": [
+          "Team Collaboration: Agile Methodologies, Jira",
+          "Problem Solving: Analytical Thinking, Debugging",
+          "Communication: Documentation, Presentation Skills"
+        ]
+      }
+    ],
+    "bio": "Lorem ipsum odor amet, consectetuer adipiscing elit. Ligula semper massa dui parturient at condimentum fringilla ipsum. Tellus imperdiet posuere lobortis; auctor sem tellus eleifend orci scelerisque. Euismod tincidunt nisi inceptos tortor urna morbi. Varius lectus faucibus sed finibus; scelerisque auctor elementum luctus duis. Finibus potenti ullamcorper sapien taciti ligula tempor ridiculus accumsan nascetur. Pellentesque parturient tristique integer arcu sed gravida. At proin suspendisse placerat fermentum nulla; quam fringilla commodo.\n\nVitae arcu erat porta tortor montes aptent purus et. Consectetur rutrum velit etiam fringilla malesuada elit maximus donec? Est potenti mauris curae tellus; potenti ultrices diam tempus tincidunt. Aliquam fringilla proin facilisis interdum, vestibulum montes in. Platea ultricies tempor; nunc eleifend lacus nascetur. Maecenas tempus natoque natoque viverra dui orci ultricies. Non habitant feugiat sagittis dictumst ipsum suscipit platea cubilia iaculis. Tristique conubia diam euismod venenatis eleifend platea euismod commodo. Tortor etiam tellus velit ante phasellus phasellus.\n\nIn netus orci ornare sed tempus iaculis lacus ante fermentum. Iaculis arcu odio rutrum dolor porta interdum habitant. Neque fringilla fermentum quis; sit ut inceptos primis curabitur. Magna donec commodo in praesent penatibus. At tortor tortor sollicitudin semper parturient velit. Pharetra ante posuere elit ut conubia euismod. Iaculis sem montes dui justo est.",
+    "bioPic": "/photo.jpg"
+  },
+  "about": {}
+}
