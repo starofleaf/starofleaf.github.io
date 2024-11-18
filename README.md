@@ -32,9 +32,9 @@ To correctly deploy your site using GitHub Pages, **create a repository with the
 
 Clone this repository to your local machine:
 
-\`\`\`bash
-git clone https://github.com/YOUR_USERNAME/2024-duke-gddi-portfolio-template.git
-\`\`\`
+```bash
+git clone git@github.com:jamesyong-42/2024-duke-gddi-portfolio-template.git
+```
 
 ### Step 3: Customize Your Content
 
@@ -43,31 +43,31 @@ git clone https://github.com/YOUR_USERNAME/2024-duke-gddi-portfolio-template.git
 The `config.json` file contains customizable content for your portfolio. Here is an explanation of each section:
 
 - **Basic Information**
-  \`\`\`json
+  ```json
   "basic": {
     "name": "Your Name",
     "email": "your-email@example.com",
     "linkedin": "https://www.linkedin.com/in/yourprofile/",
     "resume": "RESUME_YOURNAME_2024.pdf"
   }
-  \`\`\`
+  ```
   - **`name`**: Your full name.
   - **`email`**: Your email address for contact.
   - **`linkedin`**: Link to your LinkedIn profile.
   - **`resume`**: Path to your resume file (upload your resume in this repository).
 
 - **Home Content**
-  \`\`\`json
+  ```json
   "home": {
     "heroSentence": "A brief tagline about yourself",
     "projects": [ ... ]
   }
-  \`\`\`
+  ```
   - **`heroSentence`**: A short phrase that summarizes your professional focus.
   - **`projects`**: List of project entries (explained further below).
 
 - **Skills**
-  \`\`\`json
+  ```json
   "skills": [
     {
       "group": "Technical Skills",
@@ -75,13 +75,13 @@ The `config.json` file contains customizable content for your portfolio. Here is
     },
     ...
   ]
-  \`\`\`
+  ```
 
 - **Bio**
-  \`\`\`json
+  ```json
   "bio": "Write a brief biography about yourself.",
   "bioPic": "/photo.jpg"
-  \`\`\`
+  ```
   - **`bio`**: Your biography text.
   - **`bioPic`**: Path to your profile picture (e.g., `photo.jpg`).
 
@@ -89,7 +89,7 @@ The `config.json` file contains customizable content for your portfolio. Here is
 
 Each project should have the following structure in the `projects` array:
 
-\`\`\`json
+```json
 {
   "name": "Project Title",
   "year": "Year",
@@ -116,7 +116,8 @@ Each project should have the following structure in the `projects` array:
     }
   ]
 }
-\`\`\`
+```
+
 
 #### 3. Upload Files
 
