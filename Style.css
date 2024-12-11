@@ -1,0 +1,43 @@
+@font-face {
+    font-family: "Aeonik";
+    src: url("./fonts/AeonikTRIAL-Bold.otf") format("opentype");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Aeonik";
+    src: url("./fonts/AeonikTRIAL-Light.otf") format("opentype");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: "Aeonik";
+    src: url("./fonts/AeonikTRIAL-Regular.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+:root {
+    /* Font Properties */
+    --font-family-primary: "Aeonik", SansSerif;
+    --font-size-base: 16px;
+    --font-size-h1: 6.25rem;
+    --font-size-h2: 2.5rem;
+    --font-size-p: 1.875rem;
+    --font-size-small: 1.25rem;
+    --line-height-base: 1.1;
+    --font-weight-light: lighter;
+    --font-color-primary: white;
+    --font-color-secondary: gray;
+
+    --mix-blend-mode: difference;
+
+
+    /* Spacing (converted from pxToRem for easier scaling) */
+    --spacing-large: 12.5rem; /* 200px */
+    --spacing-medium: 5rem; /* 80px */
+    --spacing-small: 3.125rem; /* 50px */
+    --spacing-extra-small: 0.625rem; /* 10px */
+}
