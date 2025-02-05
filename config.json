@@ -18,8 +18,8 @@
         "coverImage": "/projects/Meta_UESTC/cover.jpg",
         "roles": ["Sole Programmer", "Game Designer","Material Developer"],
         "highlights": [
-          "Served as the sole developer, responsible for establishing the game framework, developing team tools, implementing both game and map functionalities, and managing version updates.",
-          "Functioned as the project’s game planner, designing a comprehensive simulation of a four-year college experience by creating more than tens of thousands of events and hundreds of in-game achievements.",
+          "Served as the sole developer, responsible for establishing the game framework, developing team tools, game logic and map functionalities, and managing version updates.",
+          "Functioned as the project’s game designer, designing a comprehensive simulation of a college experience by creating more than 10000 of events and 100 of in-game achievements.",
           "Secured two patents.",
           "Achieved revenue exceeding 500,000 CNY and maintained a top ranking on a major Chinese social media platform for one day."
         ],
@@ -29,7 +29,7 @@
             "value": "Meta-UESTC is primarily utilized as the core gift included with the admission letters for incoming freshmen at UESTC."
           },
           {
-            "value": "/projects/Meta_UESTC/Meta-UESTC IntroA.png",
+            "value": "/projects/Meta_UESTC/Meta-UESTC_IntroA.png",
             "type": "image"
           },
           {
@@ -37,7 +37,7 @@
             "value": "Meta-UESTC is an AR campus map game software that recognizes patterns on a physical circuit board when scanned with a mobile phone. It can display a scaled model of the University of Electronic Science and Technology of China (UESTC). In the viewing mode, players can click on buildings to view their overall appearance, use two fingers to rotate or zoom in to see building details, and click the \"Details\" button to view specific information about the buildings, including real-world images and historical background. In the game mode, players take on the role of a new UESTC student and allocate their time to choose courses, clubs, life, competitions, emotions, and research events, aiming to prepare for their future and manage their time efficiently. After four years, players receive a graduation report that reveals the kind of talent they have become, with hundreds of achievements waiting to be unlocked."
           },
           {
-            "value": "/projects/Meta_UESTC/Meta-UESTC IntroB.png",
+            "value": "/projects/Meta_UESTC/Meta-UESTC_IntroB.png",
             "type": "image"
           },
           {
@@ -46,11 +46,11 @@
           },
           {
             "value": "/projects/Meta_UESTC/Vedio2.mp4",
-            "type": "video-muted"
+            "type": "video"
           },
           {
             "value": "/projects/Meta_UESTC/Vedio1.mp4",
-            "type": "video-muted"
+            "type": "video"
           },
           {
             "type": "paragraph",
@@ -63,42 +63,43 @@
         ]
       },
       {
-        "name": "Lorem Ipsum2",
-        "year": "2024",
-        "keywords": ["Unreal Engine", "Shader"],
-        "shortDesc": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
-        "coverImage": "/projects/bca/cover.jpg",
-        "roles": ["Sole Developer", "Co-designer"],
+        "name": "Rural Vows with Me",
+        "year": "2023",
+        "keywords": ["Unity", "AR","National University Poverty Alleviation Conference","China's Poverty Alleviation Information","Profitable"],
+        "shortDesc": "Rural Vows with Me is an AR software designed to be used in conjunction with a physical circuit board. It aims to collect and share the achievements and contributions of university poverty alleviation initiatives across China and is distributed as a souvenir at the National University Poverty Alleviation Conference in China.",
+        "coverImage": "/projects/Rural Vows with Me/Cover.png",
+        "roles": ["Sole Programmer", "Technical Artist","Motion Designer"],
         "highlights": [
-          "Innovated a ping-pong rendering system for seamless scene transitions.",
-          "Engineered a browser-based scene editor for real-time animation editing by animators.",
-          "Conceptualized and implemented interactive particle effects and sand transitions using shader.",
-          "Developed sophisticated lighting effects."
+          "Established standardized protocols and collected poverty alleviation data from over 80 Chinese universities, managing program outcomes and contributions in a tabulated format.",
+          "Implemented a mesh-based positioning system to automatically locate and plot universities from various regions onto distinct sections of the Chinese map.",
+          "Developed dynamic visual effects for the map, including flowing light animations and various other animated transitions.",
+          "As the sole programmer, engineered the complete software framework and feature set, and developed tools for batch organizing and processing large volumes of data."
         ],
         "detail": [
           {
             "type": "paragraph",
-            "value": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+            "value": "Rural Vows with Me is an AR project display software. This project collaborates with the National Education Bureau's university poverty alleviation efforts, showcasing the achievements and specific content of over 80 well-known domestic universities' poverty alleviation projects. Through text descriptions, physical images, and videos, it highlights the poverty alleviation outcomes of various projects. The project combines electronic technology with AR software, creating a combination of physical circuit boards and AR software to enhance visual presentation. This product is used as a souvenir gift for the National University Poverty Alleviation Conference."
           },
           {
-            "value": "/projects/bca/reel.mp4",
+            "type": "paragraph",
+            "value": "The primary purpose of Rural Vows with Me is to serve as a souvenir gift for experts and leaders attending the conference. Additionally, it aims to showcase the achievements of various universities in regional poverty alleviation efforts in recent years. By combining physical and AR-enhanced visual elements, this product not only serves as a collectible physical souvenir but also offers extended visual appeal."
+          },
+          {
+            "value": "/projects/Rural Vows with Me/乡约有我.png",
+            "type": "image"
+          },
+          {
+            "value": "/projects/Rural Vows with Me/Vedio.mp4",
             "type": "video"
           },
           {
-            "value": "/projects/bca/1.jpg",
-            "type": "image"
-          },
-          {
-            "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "value": "In this project, I was primarily responsible for the software planning, programming, and some technical art aspects. Regarding planning, I handled system planning, data requirements planning, and artistic effects planning for all software. I collected information on poverty alleviation achievements from over 80 universities and preprocessed the data. In terms of programming, I was responsible for all the software's programming, including batch data processing, core framework construction, and system design. In technical art, I handled the modeling and segmentation of the map of China, as well as the creation and optimization of all shaders in the software.",
             "type": "paragraph"
           },
+
           {
-            "value": "/projects/bca/2.jpg",
-            "type": "image"
-          },
-          {
-            "value": "/projects/bca/3.jpg",
-            "type": "image"
+            "value": "Besides, I learned how to negotiate with multiple platforms, obtain relevant information, and ensure compliance. We successfully collected specific poverty alleviation information from 86 out of 96 universities, and the project systematically showcased this information. I also learned about the importance of combining real economic business value with virtual economic business value in the industry.",
+            "type": "paragraph"
           }
         ]
       },
