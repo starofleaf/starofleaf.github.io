@@ -29,24 +29,36 @@
             "value": "Meta-UESTC is primarily utilized as the core gift included with the admission letters for incoming freshmen at UESTC."
           },
           {
-            "value": "Meta-UESTC IntroA.png",
+            "value": "/projects/Meta_UESTC/Meta-UESTC IntroA.png",
             "type": "image"
           },
           {
             "type": "paragraph",
-            "value": "Meta-UESTC is an AR campus map game software that recognizes patterns on a physical circuit board when scanned with a mobile phone. It can display a scaled model of the University of Electronic Science and Technology of China (UESTC). In the viewing mode, players can click on buildings to view their overall appearance, use two fingers to rotate or zoom in to see building details, and click the "Details" button to view specific information about the buildings, including real-world images and historical background. In the game mode, players take on the role of a new UESTC student and allocate their time to choose courses, clubs, life, competitions, emotions, and research events, aiming to prepare for their future and manage their time efficiently. After four years, players receive a graduation report that reveals the kind of talent they have become, with hundreds of achievements waiting to be unlocked."
+            "value": "Meta-UESTC is an AR campus map game software that recognizes patterns on a physical circuit board when scanned with a mobile phone. It can display a scaled model of the University of Electronic Science and Technology of China (UESTC). In the viewing mode, players can click on buildings to view their overall appearance, use two fingers to rotate or zoom in to see building details, and click the \"Details\" button to view specific information about the buildings, including real-world images and historical background. In the game mode, players take on the role of a new UESTC student and allocate their time to choose courses, clubs, life, competitions, emotions, and research events, aiming to prepare for their future and manage their time efficiently. After four years, players receive a graduation report that reveals the kind of talent they have become, with hundreds of achievements waiting to be unlocked."
           },
           {
-            "value": "Meta-UESTC IntroB.png",
+            "value": "/projects/Meta_UESTC/Meta-UESTC IntroB.png",
             "type": "image"
           },
           {
-            "value": "Vedio2.mp4",
+            "type": "paragraph",
+            "value": "The original purpose of this project was to spontaneously improve the school's cultural gifts and promote the reform of school entertainment products. It later became the core gift for UESTC's 22nd and 23rd student admission letters, designed to help new students quickly familiarize themselves with the campus structure and life, and prepare for their future and time management. Media coverage has turned it into a promotional product for the school at the admission level, attracting a large number of students to apply to our school."
+          },
+          {
+            "value": "/projects/Meta_UESTC/Vedio2.mp4",
             "type": "video-muted"
           },
           {
-            "value": "Vedio1.mp4",
+            "value": "/projects/Meta_UESTC/Vedio1.mp4",
             "type": "video-muted"
+          },
+          {
+            "type": "paragraph",
+            "value": "In this project, I was primarily responsible for the software planning and programming of Meta-UESTC, as well as some art-related tasks. For software planning, I designed the software's exhibition and game systems, including text content, artistic effects (dynamic effects, shaders), tutorials, core gameplay, value planning, and achievement system planning, among other core software functions. In terms of programming, I implemented all the software features, including subsequent updates to Meta-UESTC 2.0, maintenance of the Android download platform website, and more. In art-related tasks, I handled all animation production and shader creation."
+          },
+          {
+            "type": "paragraph",
+            "value": "In terms of planning, I learned how to design exhibition halls and cultivation-style game development. This included creating Gantt charts for resource allocation in game development, verifying the reasonableness of game data by filling in thousands of data sheets and using MATLAB for data calculation, expanding and optimizing game-related functions based on user feedback from trial players, and writing in-game content. For programming, I learned the concept of extensible frameworks, especially in the context of long-term project code maintenance and optimization. Specifically, I learned AR/VR program development, batch data processing tool creation, and various core systems and optimization algorithms. In terms of art, I learned how to create effects through programming, including creating shaders through code and connections. Animation effects were also essential, and I learned general animation design by continuously adjusting and designing animation curves. In terms of marketing and management, I learned how to operate and sell the game and physical products, including media promotion, advertisement creation, and post-promotion."
           }
         ]
       },
