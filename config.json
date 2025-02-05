@@ -7,33 +7,34 @@
   },
   "home": {
     "heroSentence": "A Game Designer & Developer",
-    "test":"My motto is to devote my heart and soul to crafting immersive games that inspire thoughtful reflection and bring joy to players.",
+    
+    "value":"My motto is to devote my heart and soul to crafting immersive games that inspire thoughtful reflection and bring joy to players.",
     "projects": [
       {
-        "name": "Lorem Ipsum1",
-        "year": "2024",
-        "keywords": ["Unreal Engine", "Shader"],
-        "shortDesc": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
-        "coverImage": "/projects/cleo/cover.jpg",
-        "roles": ["Sole Developer", "Co-designer"],
+        "name": "Meta-UESTC",
+        "year": "2022",
+        "keywords": ["Unity", "AR Game", "Campus Map","Patent","Profitable"],
+        "shortDesc": "Meta-UESTC is an AR Game designed to be used in conjunction with a physical circuit board. It enables users to clearly explore the building layouts as well as video and image information of UESTC, and offers a simulated university game experience.",
+        "coverImage": "/projects/Meta_UESTC/cover.jpg",
+        "roles": ["Sole Programmer", "Game Designer","Material Developer"],
         "highlights": [
-          "Innovated a ping-pong rendering system for seamless scene transitions.",
-          "Engineered a browser-based scene editor for real-time animation editing by animators.",
-          "Conceptualized and implemented interactive particle effects and sand transitions using shader.",
-          "Developed sophisticated lighting effects."
+          "Served as the sole developer, responsible for establishing the game framework, developing team tools, implementing both game and map functionalities, and managing version updates.",
+          "Functioned as the project’s game planner, designing a comprehensive simulation of a four-year college experience by creating more than tens of thousands of events and hundreds of in-game achievements.",
+          "Secured two patents.",
+          "Achieved revenue exceeding 500,000 CNY and maintained a top ranking on a major Chinese social media platform for one day."
         ],
         "detail": [
           {
             "type": "paragraph",
-            "value": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+            "value": "Meta-UESTC is primarily utilized as the core gift included with the admission letters for incoming freshmen at UESTC."
           },
           {
-            "value": "/projects/cleo/1.jpg",
+            "value": "Meta-UESTC IntroA.png",
             "type": "image"
           },
           {
-            "value": "/projects/cleo/1.mp4",
-            "type": "video-muted"
+            "value": "Meta-UESTC IntroB.png",
+            "type": "image"
           },
           {
             "value": "/projects/cleo/2.mp4",
