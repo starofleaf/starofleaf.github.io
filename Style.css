@@ -32,7 +32,8 @@
     --font-color-primary: #00FBFF;
     --font-color-secondary: #00FFAD;
 
-    --mix-blend-mode: difference;
+    /*difference*/
+    --mix-blend-mode: normal;
 
 
     /* Spacing (converted from pxToRem for easier scaling) */
