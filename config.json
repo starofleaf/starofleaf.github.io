@@ -111,10 +111,10 @@
         "coverImage": "/projects/Light&Heavy/cover.jpg",
         "roles": ["Primary Programmer & Framework Designer", "Technical Artist","Level Designer","User Experience Technologist"],
         "highlights": [
-          "Led the development as the primary programmer, implementing game level logic, UI, dialogue narrative, and save functionalities.",
-          "Created stylized scene rendering and executed all particle effects.",
-          "Designed and developed engaging game levels.",
-          "Collected user feedback and made timely adjustments to the levels."
+          "As the Programmer, fine-tuned the physics engine, implemented level transition logic, developed the dialogue system, and established various event triggers.",
+          "In the role of Technical Artist, delivered stylized rendering, particle effects, scene transition effects, as well as opening and closing animations.",
+          "Serving as both Level Designer and User Experience Technologist, designed and tested game levels while incorporating player feedback for continuous improvement.",
+          "In an operational capacity, leveraged promotional articles and social media management to elevate the game's popularity, achieving a top 10 ranking on Chinese gaming platforms."
         ],
         "detail": [
           {
@@ -122,32 +122,24 @@
             "value": "Originally themed \"Light\", this project centers on a core gameplay mechanic where players use a handheld device to swap the masses of objects. The main objective is to solve 3D puzzles by exchanging object weights within various scenes. Starting with the concept of a lever, the game progressively introduces more complex structures—such as pulley systems and gears—drawing from fundamental principles of physics and mechanics. Most mechanisms are designed as levers or components of a lever system, challenging players to observe, learn, and explore innovative solutions. This elegant and intuitive physics-based puzzle game offers significant potential for future development."
           },
           {
-            "value": "/projects/cvd/reel.mp4",
+            "value": "/projects/Light&Heavy/SGJ2024.mp4",
             "type": "video"
           },
           {
-            "value": "/projects/cvd/1.jpg",
+            "value": "/projects/Light&Heavy/image1.png",
             "type": "image"
           },
           {
-            "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "type": "paragraph"
-          },
-          {
-            "value": "/projects/cvd/2.mp4",
-            "type": "video-muted"
-          },
-          {
-            "value": "/projects/cvd/3.jpg",
+            "value": "/projects/Light&Heavy/image2.png",
             "type": "image"
           },
           {
-            "value": "/projects/cvd/3.mp4",
-            "type": "video-muted"
+            "value": "/projects/Light&Heavy/image3.png",
+            "type": "image"
           },
           {
-            "value": "/projects/cvd/4.mp4",
-            "type": "video-muted"
+            "value": "/projects/Light&Heavy/image4.png",
+            "type": "image"
           }
         ]
       },
