@@ -148,7 +148,7 @@
         "year": "2024",
         "keywords": ["Unity", "2D Racing Puzzle Game","Micro Horror","Game Jam"],
         "shortDesc": "",
-        "coverImage": "/projects/pbd/cover.jpg",
+        "coverImage": "/projects/Bulimia/cover.jpg",
         "roles": ["Primary Programmer & Framework Designer","Motion Animation Designer"],
         "highlights": [
           "Served as the lead programmer, responsible for developing the game framework and implementing the core logic.",
@@ -183,11 +183,11 @@
         ]
       },
       {
-        "name": "Lorem Ipsum5",
+        "name": "Nocturne of The Frog In The Moonlight",
         "year": "2024",
-        "keywords": ["Unreal Engine", "Shader"],
-        "shortDesc": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
-        "coverImage": "/projects/cvd/cover.jpg",
+        "keywords": ["Unity", "2D Platform","Puzzle Solving","Racing"],
+        "shortDesc": "Step into the role of a little frog from a fairy tale. Harnessing the magical power of growing vines, embark on a journey toward the moon suspended in the heavens to reclaim nature’s vibrant vitality. This is a fairy tale for frogs—a lyrical ode dedicated to the moon.",
+        "coverImage": "/projects/Nocturne of The Frog In The Moonlight/cover.jpg",
         "roles": ["Sole Developer", "Co-designer"],
         "highlights": [
           "Innovated a ping-pong rendering system for seamless scene transitions.",
@@ -201,11 +201,11 @@
             "value": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
           },
           {
-            "value": "/projects/cvd/reel.mp4",
+            "value": "/projects/Nocturne of The Frog In The Moonlight/reel.mp4",
             "type": "video"
           },
           {
-            "value": "/projects/cvd/1.jpg",
+            "value": "/projects/Nocturne of The Frog In The Moonlight/1.jpg",
             "type": "image"
           },
           {
@@ -213,19 +213,19 @@
             "type": "paragraph"
           },
           {
-            "value": "/projects/cvd/2.mp4",
+            "value": "/projects/Nocturne of The Frog In The Moonlight/2.mp4",
             "type": "video-muted"
           },
           {
-            "value": "/projects/cvd/3.jpg",
+            "value": "/projects/Nocturne of The Frog In The Moonlight/3.jpg",
             "type": "image"
           },
           {
-            "value": "/projects/cvd/3.mp4",
+            "value": "/projects/Nocturne of The Frog In The Moonlight/3.mp4",
             "type": "video-muted"
           },
           {
-            "value": "/projects/cvd/4.mp4",
+            "value": "/projects/Nocturne of The Frog In The Moonlight/4.mp4",
             "type": "video-muted"
           }
         ]
