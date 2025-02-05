@@ -33,31 +33,19 @@
             "type": "image"
           },
           {
+            "type": "paragraph",
+            "value": "Meta-UESTC is an AR campus map game software that recognizes patterns on a physical circuit board when scanned with a mobile phone. It can display a scaled model of the University of Electronic Science and Technology of China (UESTC). In the viewing mode, players can click on buildings to view their overall appearance, use two fingers to rotate or zoom in to see building details, and click the "Details" button to view specific information about the buildings, including real-world images and historical background. In the game mode, players take on the role of a new UESTC student and allocate their time to choose courses, clubs, life, competitions, emotions, and research events, aiming to prepare for their future and manage their time efficiently. After four years, players receive a graduation report that reveals the kind of talent they have become, with hundreds of achievements waiting to be unlocked."
+          },
+          {
             "value": "Meta-UESTC IntroB.png",
             "type": "image"
           },
           {
-            "value": "/projects/cleo/2.mp4",
+            "value": "Vedio2.mp4",
             "type": "video-muted"
           },
           {
-            "value": "/projects/cleo/3.mp4",
-            "type": "video-muted"
-          },
-          {
-            "value": "/projects/cleo/4.mp4",
-            "type": "video-muted"
-          },
-          {
-            "value": "/projects/cleo/5.mp4",
-            "type": "video-muted"
-          },
-          {
-            "value": "/projects/cleo/6.mp4",
-            "type": "video-muted"
-          },
-          {
-            "value": "/projects/cleo/7.mp4",
+            "value": "Vedio1.mp4",
             "type": "video-muted"
           }
         ]
