@@ -2,11 +2,11 @@
   "basic": {
     "name": "Liheng Zou",
     "email": "liheng.zou@duke.edu",
-    "linkedin": "www.linkedin.com/in/liheng-zou-614b65320",
+    "linkedin": "https://www.linkedin.com/in/liheng-zou-614b65320/",
     "resume": "Resume（One Page）.pdf"
   },
   "home": {
-    "heroSentence": "Game Designer & Developer \\n \\n \\n My motto is to devote my heart and soul to crafting immersive games that inspire thoughtful reflection and bring joy to players.",
+    "heroSentence": "Game Designer & Developer <br> My motto is to devote my heart and soul to crafting immersive games that inspire thoughtful reflection and bring joy to players.",
 
     "projects": [
       {
