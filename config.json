@@ -144,45 +144,40 @@
         ]
       },
       {
-        "name": "Lorem Ipsum4",
+        "name": "Bulimia",
         "year": "2024",
-        "keywords": ["Unreal Engine", "Shader"],
-        "shortDesc": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+        "keywords": ["Unity", "2D Racing Puzzle Game","Micro Horror","Game Jam"],
+        "shortDesc": "",
         "coverImage": "/projects/pbd/cover.jpg",
-        "roles": ["Sole Developer", "Co-designer"],
+        "roles": ["Primary Programmer & Framework Designer","Motion Animation Designer"],
         "highlights": [
-          "Innovated a ping-pong rendering system for seamless scene transitions.",
-          "Engineered a browser-based scene editor for real-time animation editing by animators.",
-          "Conceptualized and implemented interactive particle effects and sand transitions using shader.",
-          "Developed sophisticated lighting effects."
+          "Served as the lead programmer, responsible for developing the game framework and implementing the core logic.",
+          "Completed the creation of all dynamic, non-frame animations within the levels.",
+          "Designed several levels."
         ],
         "detail": [
           {
             "type": "paragraph",
-            "value": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+            "value": "The theme is 'Limited and Limitless'. In this game player plays as a chef who needs to cook a growing pile of flesh in the back of the kitchen to de-activate it and fulfil orders. The core gameplay is a variant of 'Sokoban', which allows you to push a crate from the other side by switching places with the crate if one side is blocked, simplifying the crate pushing part of the game and encouraging intuitive action. The cooking and serving process is similar to 'Overcooked', but it is worth mentioning that the growing flesh will cause damage to the player standing on top of it, making the game very challenging in the later stages.The theme is 'Limited and Limitless'. In this game player plays as a chef who needs to cook a growing pile of flesh in the back of the kitchen to de-activate it and fulfil orders. The core gameplay is a variant of 'Sokoban', which allows you to push a crate from the other side by switching places with the crate if one side is blocked, simplifying the crate pushing part of the game and encouraging intuitive action. The cooking and serving process is similar to 'Overcooked', but it is worth mentioning that the growing flesh will cause damage to the player standing on top of it, making the game very challenging in the later stages."
           },
           {
-            "value": "/projects/pbd/reel.mp4",
+            "value": "/projects/Bulimia/SGJ2024.mp4",
             "type": "video"
           },
           {
-            "value": "/projects/pbd/1.jpg",
+            "value": "/projects/Bulimia/image1.png",
             "type": "image"
           },
           {
-            "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "type": "paragraph"
+            "value": "/projects/Bulimia/image2.png",
+            "type": "image"
           },
           {
-            "value": "/projects/pbd/1.mp4",
-            "type": "video-muted"
+            "value": "/projects/Bulimia/image3.png",
+            "type": "image"
           },
           {
-            "value": "/projects/pbd/2.mp4",
-            "type": "video-muted"
-          },
-          {
-            "value": "/projects/pbd/3.jpg",
+            "value": "/projects/Bulimia/image4.png",
             "type": "image"
           }
         ]
