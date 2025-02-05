@@ -29,8 +29,8 @@
     --font-size-small: 1.25rem;
     --line-height-base: 1.1;
     --font-weight-light: lighter;
-    --font-color-primary: white;
-    --font-color-secondary: gray;
+    --font-color-primary: #00FBFF;
+    --font-color-secondary: #00FFAD;
 
     --mix-blend-mode: difference;
 
