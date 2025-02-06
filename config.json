@@ -147,7 +147,7 @@
         "name": "Bulimia",
         "year": "2024",
         "keywords": ["Unity", "2D Racing Puzzle Game","Micro Horror","Game Jam"],
-        "shortDesc": "",
+        "shortDesc": "For fame and prestige, you, as a chef, have struck a pact with a demon, granting you endless ingredients and an unceasing stream of diners. But beware—never slow down your cooking. Should you falter, both the ingredients and the guests may lead you to an inescapable fate.",
         "coverImage": "/projects/Bulimia/cover.jpg",
         "roles": ["Primary Programmer & Framework Designer","Motion Animation Designer"],
         "highlights": [
@@ -190,10 +190,8 @@
         "coverImage": "/projects/Nocturne of The Frog In The Moonlight/cover.jpg",
         "roles": ["Sole Developer", "Co-designer"],
         "highlights": [
-          "Innovated a ping-pong rendering system for seamless scene transitions.",
-          "Engineered a browser-based scene editor for real-time animation editing by animators.",
-          "Conceptualized and implemented interactive particle effects and sand transitions using shader.",
-          "Developed sophisticated lighting effects."
+          "Original Game Music Synthesizer – Integrates gameplay progress with dynamic music tracks, binding player movement to musical layers. As players ascend to different heights, the soundtrack shifts seamlessly, enriching the atmosphere and deepening immersion.",
+          "Custom Tilemap Generator – Utilizes textures and custom collision nodes to create diverse terrain interactions and material variations. This ensures that each playthrough generates a fresh and exhilarating new environment, making every run a unique experience."
         ],
         "detail": [
           {
@@ -223,11 +221,11 @@
         ]
       },
       {
-        "name": "Lorem Ipsum6",
-        "year": "2024",
+        "name": "Life Spreading",
+        "year": "2023",
         "keywords": ["Unreal Engine", "Shader"],
         "shortDesc": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
-        "coverImage": "/projects/cvd/cover.jpg",
+        "coverImage": "/projects/Life Spreading/cover.png",
         "roles": ["Sole Developer", "Co-designer"],
         "highlights": [
           "Innovated a ping-pong rendering system for seamless scene transitions.",
@@ -238,35 +236,35 @@
         "detail": [
           {
             "type": "paragraph",
-            "value": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+            "value": "\"The Spread of Life\" is a programming puzzle game where you need to design unique genes that enable your seeds to undergo cell division, ultimately leading to the successful growth, flowering, and fruition of your seeds."
           },
           {
-            "value": "/projects/cvd/reel.mp4",
+            "type": "paragraph",
+            "value": "The backdrop and idea of this game are inspired by Conway's Game of Life from the field of computer science, which dictates the 'reproduction' and 'death' of cells through a few simple rules, thereby achieving Turing completeness. In our game, we also want to enable a seed to grow healthily by allowing players to specify special rules. As the seasons change, you will face the challenges of different seasons. How should you design your plant's genes to enable it to grow on different terrains and through the various seasons?"
+          },
+          {
+            "value": "/projects/Life Spreading/video.mp4",
             "type": "video"
           },
           {
-            "value": "/projects/cvd/1.jpg",
+            "value": "/projects/Life Spreading/Image1.png",
             "type": "image"
           },
           {
-            "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "type": "paragraph"
-          },
-          {
-            "value": "/projects/cvd/2.mp4",
-            "type": "video-muted"
-          },
-          {
-            "value": "/projects/cvd/3.jpg",
+            "value": "/projects/Life Spreading/Image2.png",
             "type": "image"
           },
           {
-            "value": "/projects/cvd/3.mp4",
-            "type": "video-muted"
+            "value": "/projects/Life Spreading/Image3.png",
+            "type": "image"
           },
           {
-            "value": "/projects/cvd/4.mp4",
-            "type": "video-muted"
+            "value": "/projects/Life Spreading/Image4.png",
+            "type": "image"
+          },
+          {
+            "value": "/projects/Life Spreading/Image5.png",
+            "type": "image"
           }
         ]
       },
