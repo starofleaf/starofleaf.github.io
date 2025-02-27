@@ -321,17 +321,17 @@
       {
         "group": "Technical Skills",
         "skills": [
-          "Programming Languages: C++, Python, JavaScript",
+          "Programming Languages: C#,C,C++",
           "Game Engines: Unreal Engine, Unity",
-          "Tools/Frameworks: Git, Three.js, LiquidFun, Blender"
+          "Tools: Git, Perforce, PlasticSCM"
         ]
       },
       {
         "group": "Creative Skills",
         "skills": [
-          "3D Modeling: Blender, Maya",
-          "Graphics/Shader Programming: GLSL, WebGL",
-          "Level Design: Unreal Engine Level Editor, Unity Terrain"
+          "3D Modeling: Blender, Maya",   
+          "2D Drawing: PS, Aseprite",  
+          "Animation: AE, PR"     
         ]
       },
       {
@@ -343,7 +343,7 @@
         ]
       }
     ],
-    "bio": "Lorem ipsum odor amet, consectetuer adipiscing elit. Ligula semper massa dui parturient at condimentum fringilla ipsum. Tellus imperdiet posuere lobortis; auctor sem tellus eleifend orci scelerisque. Euismod tincidunt nisi inceptos tortor urna morbi. Varius lectus faucibus sed finibus; scelerisque auctor elementum luctus duis. Finibus potenti ullamcorper sapien taciti ligula tempor ridiculus accumsan nascetur. Pellentesque parturient tristique integer arcu sed gravida. At proin suspendisse placerat fermentum nulla; quam fringilla commodo.\n\nVitae arcu erat porta tortor montes aptent purus et. Consectetur rutrum velit etiam fringilla malesuada elit maximus donec? Est potenti mauris curae tellus; potenti ultrices diam tempus tincidunt. Aliquam fringilla proin facilisis interdum, vestibulum montes in. Platea ultricies tempor; nunc eleifend lacus nascetur. Maecenas tempus natoque natoque viverra dui orci ultricies. Non habitant feugiat sagittis dictumst ipsum suscipit platea cubilia iaculis. Tristique conubia diam euismod venenatis eleifend platea euismod commodo. Tortor etiam tellus velit ante phasellus phasellus.\n\nIn netus orci ornare sed tempus iaculis lacus ante fermentum. Iaculis arcu odio rutrum dolor porta interdum habitant. Neque fringilla fermentum quis; sit ut inceptos primis curabitur. Magna donec commodo in praesent penatibus. At tortor tortor sollicitudin semper parturient velit. Pharetra ante posuere elit ut conubia euismod. Iaculis sem montes dui justo est.",
+    "bio": "Liheng Zou is currently a first-year graduate student at Duke University, specializing in Game Design, Development & Innovation. He earned his undergraduate degree in Electronic Information Engineering from the University of Electronic Science and Technology of China (UESTC). As an interaction designer, Zou has achieved notable recognition, including a provincial third prize at the National University Student Advertising Design Competition and national second prizes at the Milan Design Week – China Design Exhibition in both 2022 and 2023. As a game designer, he distinguished himself by ranking 26th out of 1,144 entries in competitions such as Ludum Dare 52 and The Jam, and by securing first place along with the Best Design award at the Global Game Jam – Chongqing Station, China (GGJ) in 2023. Beyond his competition accolades, Zou boasts extensive practical experience. He has interned at Season (Xi Shan Ju) and Chengdu XD Entertainment Co., Ltd., and served as a lab assistant in UESTC's Interactive Media Lab for two years, where he contributed to designing the university’s admission letters for 2022 and 2023. At Duke University, he has also collaborated with the ICU department of Duke Hospital to develop an XR game aimed at facilitating patient rehabilitation. Currently, Zou is dedicated to developing MangaHero, a high-speed action game that showcases his passion for innovative game design and dynamic gameplay.",
     "bioPic": "/Liheng Zou-1.jpg"
   }
 }
