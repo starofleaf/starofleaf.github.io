@@ -228,10 +228,9 @@
         "coverImage": "/projects/Life Spreading/cover.png",
         "roles": ["Primary Programmer", "Game Designer"],
         "highlights": [
-          "Innovated a ping-pong rendering system for seamless scene transitions.",
-          "Engineered a browser-based scene editor for real-time animation editing by animators.",
-          "Conceptualized and implemented interactive particle effects and sand transitions using shader.",
-          "Developed sophisticated lighting effects."
+          "Allows players to program seeds, enabling highly customizable gameplay.",
+          "Features a fully designed UI with programming save files, allowing players to share their code.",
+          "Incorporates dynamic weather changes that simulate the four seasons: spring, summer, fall, and winter."
         ],
         "detail": [
           {
@@ -271,20 +270,23 @@
       {
         "name": "Pseudo-harvest",
         "year": "2024",
-        "keywords": ["Unreal Engine", "Shader"],
-        "shortDesc": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
-        "coverImage": "/projects/cvd/cover.jpg",
+        "keywords": ["Unity", "2D Physics","Pixel","Puzzle"],
+        "shortDesc": "To survive in this extreme society, you have to cheat.",
+        "coverImage": "/projects/Pseudo-harvest/cover.png",
         "roles": ["Sole Developer", "Co-designer"],
         "highlights": [
-          "Innovated a ping-pong rendering system for seamless scene transitions.",
-          "Engineered a browser-based scene editor for real-time animation editing by animators.",
-          "Conceptualized and implemented interactive particle effects and sand transitions using shader.",
-          "Developed sophisticated lighting effects."
+          "A 2D physics puzzle game that relies solely on player actions.",
+          "Creates a tense atmosphere and offers limitless approaches to overcoming challenges.",
+          "Achieved 22nd place out of 1,144 entries in Ludum Dare52."
         ],
         "detail": [
           {
             "type": "paragraph",
-            "value": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+            "value": "Pseudo-Harvest is a simple puzzle game."
+          },
+          {
+            "type": "paragraph",
+            "value": "You need to drag some stuff into the granary, and cover its surface with grain."
           },
           {
             "value": "/projects/Pseudo-harvest/Image1.gif",
