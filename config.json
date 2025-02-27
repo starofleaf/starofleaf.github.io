@@ -223,10 +223,10 @@
       {
         "name": "Life Spreading",
         "year": "2023",
-        "keywords": ["Unreal Engine", "Shader"],
-        "shortDesc": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+        "keywords": ["Unity", "Procedure","UI"],
+        "shortDesc": "Life Spreading is a coding puzzle game where you must genetically program your plant cells to grow and survive in a harsh and unforgiving land.",
         "coverImage": "/projects/Life Spreading/cover.png",
-        "roles": ["Sole Developer", "Co-designer"],
+        "roles": ["Primary Programmer", "Game Designer"],
         "highlights": [
           "Innovated a ping-pong rendering system for seamless scene transitions.",
           "Engineered a browser-based scene editor for real-time animation editing by animators.",
