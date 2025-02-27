@@ -290,31 +290,51 @@
           },
           {
             "value": "/projects/Pseudo-harvest/Image1.gif",
-            "type": "gif"
-          },
-          {
-            "value": "/projects/cvd/1.jpg",
             "type": "image"
           },
           {
-            "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "type": "paragraph"
+            "type": "paragraph",
+            "value": "Make sure the lowest level of grain surface above the Harvest Line."
+          },
+
+          {
+            "type": "paragraph",
+            "value": "Its concept bases on a bureaucratic society based on a planned economy"
           },
           {
-            "value": "/projects/cvd/2.mp4",
-            "type": "video-muted"
-          },
-          {
-            "value": "/projects/cvd/3.jpg",
+            "value": "/projects/Pseudo-harvest/Image2.png",
             "type": "image"
           },
+
           {
-            "value": "/projects/cvd/3.mp4",
-            "type": "video-muted"
+            "type": "paragraph",
+            "value": "You, as a farmer in Harvest Village, farming on a barren land, can only produce limited grain. "
           },
           {
-            "value": "/projects/cvd/4.mp4",
-            "type": "video-muted"
+            "type": "paragraph",
+            "value": "However, officials do not expect this ordinary result. They need some honorable achievements, at any cost."
+          },
+
+          {
+            "type": "paragraph",
+            "value": "They want to see a bumper HARVEST."
+          },
+          {
+            "type": "paragraph",
+            "value": "To survive in this extreme society, you have cheat."
+          },
+
+          {
+            "type": "paragraph",
+            "value": "Hide sundries beneath grain, to make it look like a full granary."
+          },  
+          {
+            "type": "paragraph",
+            "value": "Be careful, do not be caught FAKING"
+          },
+          {
+            "value": "/projects/Pseudo-harvest/Image3.png",
+            "type": "image"
           }
         ]
       },
