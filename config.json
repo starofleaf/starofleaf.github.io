@@ -269,7 +269,7 @@
       },
       {
         "name": "Pseudo-harvest",
-        "year": "2024",
+        "year": "2023",
         "keywords": ["Unity", "2D Physics","Pixel","Puzzle"],
         "shortDesc": "To survive in this extreme society, you have to cheat.",
         "coverImage": "/projects/Pseudo-harvest/cover.png",
@@ -340,10 +340,10 @@
       },
       {
         "name": "Time.Loop()",
-        "year": "2024",
-        "keywords": ["Unreal Engine", "Shader"],
-        "shortDesc": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
-        "coverImage": "/projects/cvd/cover.jpg",
+        "year": "2022",
+        "keywords": ["Unity", "Puzzle Game","Level System","Meta"],
+        "shortDesc": "Impossible box pushing—unless you can create a time paradox.",
+        "coverImage": "/projects/Time.Loop()/cover.png",
         "roles": ["Sole Developer", "Co-designer"],
         "highlights": [
           "Innovated a ping-pong rendering system for seamless scene transitions.",
@@ -354,35 +354,48 @@
         "detail": [
           {
             "type": "paragraph",
-            "value": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+            "value": "One day, you stumble upon an abandoned AI device that still manages to power on."
+          },
+
+          {
+            "type": "paragraph",
+            "value": "But when you activate it, you discover that this self-aware AI is forcefully dragging you into a game of box pushing."
+          }, 
+          {
+            "type": "paragraph",
+            "value": "At first, the puzzles seem rather simple."
           },
           {
-            "value": "/projects/cvd/reel.mp4",
-            "type": "video"
+            "type": "paragraph",
+            "value": "Until one day, she presents you with an unsolvable level—complete with a \"rewind\" button."
           },
           {
-            "value": "/projects/cvd/1.jpg",
+            "type": "paragraph",
+            "value": "However, this \"rewind\" button isn’t just a typical undo feature."
+          },
+          {
+            "type": "paragraph",
+            "value": "When you press it, time rewinds right before your eyes. Suddenly, the level resets to its original state, and you see your past self—a perfect duplicate of you, in block form—standing at the starting position, about to repeat your previous moves."
+          },
+          {
+            "type": "paragraph",
+            "value": "Perhaps you can leverage all of this to create a paradox and conquer the seemingly unsolvable level."
+          },
+          {
+            "value": "/projects/Time.Loop()/image1.png",
             "type": "image"
           },
           {
-            "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "type": "paragraph"
-          },
-          {
-            "value": "/projects/cvd/2.mp4",
-            "type": "video-muted"
-          },
-          {
-            "value": "/projects/cvd/3.jpg",
+            "value": "/projects/Time.Loop()/image2.png",
             "type": "image"
           },
           {
-            "value": "/projects/cvd/3.mp4",
-            "type": "video-muted"
+            "value": "/projects/Time.Loop()/image3.png",
+            "type": "image"
           },
           {
-            "value": "/projects/cvd/4.mp4",
-            "type": "video-muted"
+            "value": "/projects/Time.Loop()/image4.png",
+            "type": "image"
           }
         ]
       },
