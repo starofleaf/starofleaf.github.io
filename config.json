@@ -344,12 +344,12 @@
         "keywords": ["Unity", "Puzzle Game","Level System","Meta"],
         "shortDesc": "Impossible box pushing—unless you can create a time paradox.",
         "coverImage": "/projects/Time.Loop()/cover.png",
-        "roles": ["Sole Developer", "Co-designer"],
+        "roles": ["Main Programmer", "Animation Designer","Level Designer"],
         "highlights": [
-          "Innovated a ping-pong rendering system for seamless scene transitions.",
-          "Engineered a browser-based scene editor for real-time animation editing by animators.",
-          "Conceptualized and implemented interactive particle effects and sand transitions using shader.",
-          "Developed sophisticated lighting effects."
+          "Achieved third place in the national collegiate game development competition.",
+          "Developed an original puzzle gameplay mechanic based on the concept that what has already happened cannot be undone.",
+          "Features a diverse array of levels.",
+          "Meta Dialogs"
         ],
         "detail": [
           {
@@ -401,8 +401,43 @@
       },
       {
         "name": "ASCD(Anniversary Arcade Game)",
-        "year": "2024",
-        "keywords": ["Unreal Engine", "Shader"],
+        "year": "2022",
+        "keywords": ["Unity", "Side-scrolling Shooter","Arcade Score Game","Ad Game"],
+        "shortDesc": "ASCD is a promotional game developed for UESTC Publishing House to celebrate UESTC's 65th anniversary.",
+        "coverImage": "/projects/ASCD/cover.png",
+        "roles": ["Combat Designer", "Combat Programmer"],
+        "highlights": [
+          "Over a hundred people played our game and competed for high scores.",
+          "It effectively promoted the school's anniversary celebration and led to a significant increase in the sales of celebratory merchandise compared to previous years."
+        ],
+        "detail": [
+          {
+            "type": "paragraph",
+            "value": "A commercially outsourced production, UESTC publisher designed four discipline-related characters for use in the development of cultural and creative products. Our team was asked to select their settings for a second creation to promote and market other creative products in the form of an offline trial game. Considering the need for offline presentation, a relatively challenging cross-board shooter clearance game was designed, with a display of point leaderboards to promote competitive play."
+          },
+    
+          {
+            "value": "/projects/ASCD/image1.png",
+            "type": "image"
+          },
+          {
+            "value": "/projects/ASCD/image2.png",
+            "type": "image"
+          },
+          {
+            "value": "/projects/ASCD/image3.png",
+            "type": "image"
+          },
+          {
+            "value": "/projects/ASCD/image4.png",
+            "type": "image"
+          }
+        ]
+      },
+      {
+        "name": "Capture",
+        "year": "2022",
+        "keywords": ["Unity", "Shader"],
         "shortDesc": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
         "coverImage": "/projects/cvd/cover.jpg",
         "roles": ["Sole Developer", "Co-designer"],
