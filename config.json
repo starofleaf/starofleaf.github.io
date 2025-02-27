@@ -437,49 +437,37 @@
       {
         "name": "Capture",
         "year": "2022",
-        "keywords": ["Unity", "Shader"],
-        "shortDesc": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
-        "coverImage": "/projects/cvd/cover.jpg",
-        "roles": ["Sole Developer", "Co-designer"],
+        "keywords": ["Unity", "Narrative","2D Top-Down Puzzle","Outer Wilds-like"],
+        "shortDesc": "Trapped in a timeless Möbius strip where destruction and truth coexist, embark on a journey to uncover the hidden secrets of the black hole in uncharted deep space.",
+        "coverImage": "/projects/Capture/cover.png",
+        "roles": ["Level Designer", "Framework Designer","Main Programmer"],
         "highlights": [
-          "Innovated a ping-pong rendering system for seamless scene transitions.",
-          "Engineered a browser-based scene editor for real-time animation editing by animators.",
-          "Conceptualized and implemented interactive particle effects and sand transitions using shader.",
-          "Developed sophisticated lighting effects."
+          "Approximately 30 minutes of gameplay.",
+          "A fully open map that allows players to explore freely.",
+          "Innovative time loop puzzle-solving."
         ],
         "detail": [
           {
             "type": "paragraph",
-            "value": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+            "value": "Capture is a 2D open-world time puzzle game in the vein of Outer Wilds. Players must explore and uncover all the small, time-loop puzzles hidden within various environments. By understanding these individual cycles, they can piece together the overarching enigma of the Capture spacecraft, ultimately resolving a series of mysteries surrounding its explosion, demise, and other inexplicable events."
           },
           {
-            "value": "/projects/cvd/reel.mp4",
-            "type": "video"
-          },
-          {
-            "value": "/projects/cvd/1.jpg",
+            "value": "/projects/Capture/image1.png",
             "type": "image"
           },
           {
-            "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "type": "paragraph"
-          },
-          {
-            "value": "/projects/cvd/2.mp4",
-            "type": "video-muted"
-          },
-          {
-            "value": "/projects/cvd/3.jpg",
+            "value": "/projects/Capture/image2.png",
             "type": "image"
           },
           {
-            "value": "/projects/cvd/3.mp4",
-            "type": "video-muted"
+            "value": "/projects/Capture/image3.png",
+            "type": "image"
           },
           {
-            "value": "/projects/cvd/4.mp4",
-            "type": "video-muted"
+            "value": "/projects/Capture/image4.png",
+            "type": "image"
           }
+        
         ]
       },
       {
