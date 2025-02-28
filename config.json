@@ -144,6 +144,41 @@
         ]
       },
       {
+        "name": "Scratch It!",
+        "year": "2025",
+        "keywords": ["Unreal Engine", "Two-player Cooperative","Racing","Escape"],
+        "shortDesc": "Chainsaw and Drill Brothers' Escape from Hell: Is it a tale of mutual cooperation or a sinister conspiracy?",
+        "coverImage": "/projects/HellBridge/cover.png",
+        "roles": ["Sole Developer", "Co-designer"],
+        "highlights": [
+          "Two-player cooperative gameplay.",
+          "Strict resource management combined with high-speed racing."
+        ],
+        "detail": [
+          {
+            "type": "paragraph",
+            "value": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+          },
+          
+          {
+            "value": "/projects/HellBridge/image1.png",
+            "type": "image"
+          },      
+          {
+            "value": "/projects/HellBridge/image2.png",
+            "type": "image"
+          },     
+          {
+            "value": "/projects/HellBridge/image3.png",
+            "type": "image"
+          },     
+          {
+            "value": "/projects/HellBridge/image4.png",
+            "type": "image"
+          }
+        ]
+      },
+      {
         "name": "Bulimia",
         "year": "2024",
         "keywords": ["Unity", "2D Racing Puzzle Game","Micro Horror","Game Jam"],
@@ -467,150 +502,142 @@
             "value": "/projects/Capture/image4.png",
             "type": "image"
           }
-        
         ]
       },
       {
         "name": "Dungeon of Ancient Gods",
-        "year": "2024",
-        "keywords": ["Unreal Engine", "Shader"],
-        "shortDesc": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
-        "coverImage": "/projects/cvd/cover.jpg",
-        "roles": ["Sole Developer", "Co-designer"],
+        "year": "2022",
+        "keywords": ["Unity", "Puzzle Game","Meta"],
+        "shortDesc": "A puzzle game, but unlike regular puzzle games, you need to play as an ancient god to help someone solve puzzles.",
+        "coverImage": "/projects/Dungeon of Ancient Gods/cover.png",
+        "roles": ["Level Designer", "Framework Designer","Main Programmer"],
         "highlights": [
-          "Innovated a ping-pong rendering system for seamless scene transitions.",
-          "Engineered a browser-based scene editor for real-time animation editing by animators.",
-          "Conceptualized and implemented interactive particle effects and sand transitions using shader.",
-          "Developed sophisticated lighting effects."
+          "An AI with a certain degree of learning intelligence.",
+          "Innovative reverse haunted house gameplay."
         ],
         "detail": [
           {
             "type": "paragraph",
-            "value": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+            "value": "There is  an ancient god lying in a state of slumber, waiting for power to recover in the depths of a sacred temple. "
           },
           {
-            "value": "/projects/cvd/reel.mp4",
-            "type": "video"
+            "type": "paragraph",
+            "value": "From the birth of human beings this temple seems to stand here. After tens of thousands of years of winds and rains, people have already forgotten the origin of this temple. Only heard that this is the residence of a horrible existence in the old time, shall not disturb that unspeakable god eternal sleep. "
           },
           {
-            "value": "/projects/cvd/1.jpg",
+            "type": "paragraph",
+            "value": "But as more and more people explored the temple, they felt that there was nothing special about it except that the building was old, and gradually people began to think that unspeakable god had left. "
+          },
+          {
+            "type": "paragraph",
+            "value": "Stupid mortals! They deceived by the illusion of ancient god’s absence, clung to the persistent whispers of legends that whispered of dormant existence.     "
+          },
+          {
+            "type": "paragraph",
+            "value": "Until one day, a ignorant spirit ventured into temple. Ancient god just marveled at its ignorance and foolishness, as it happens, his powers are almost back. The unspeakable one decided to assist it in unraveling the puzzles within temple to free himself and let the world tremble in his presence of awakening again. "
+          },
+          {
+            "value": "/projects/Dungeon of Ancient Gods/image1.gif",
             "type": "image"
           },
           {
-            "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "type": "paragraph"
-          },
-          {
-            "value": "/projects/cvd/2.mp4",
-            "type": "video-muted"
-          },
-          {
-            "value": "/projects/cvd/3.jpg",
+            "value": "/projects/Dungeon of Ancient Gods/image2.gif",
             "type": "image"
           },
           {
-            "value": "/projects/cvd/3.mp4",
-            "type": "video-muted"
+            "value": "/projects/Dungeon of Ancient Gods/image3.gif",
+            "type": "image"
           },
           {
-            "value": "/projects/cvd/4.mp4",
-            "type": "video-muted"
+            "value": "/projects/Dungeon of Ancient Gods/image4.gif",
+            "type": "image"
+          },
+          {
+            "value": "/projects/Dungeon of Ancient Gods/image5.gif",
+            "type": "image"
+          },
+          {
+            "value": "/projects/Dungeon of Ancient Gods/image6.gif",
+            "type": "image"
           }
         ]
       },
       {
         "name": "HellBridge",
-        "year": "2024",
-        "keywords": ["Unreal Engine", "Shader"],
-        "shortDesc": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
-        "coverImage": "/projects/cvd/cover.jpg",
+        "year": "2021",
+        "keywords": ["Unity", "Two-player Cooperative","Racing","Escape"],
+        "shortDesc": "Chainsaw and Drill Brothers' Escape from Hell: Is it a tale of mutual cooperation or a sinister conspiracy?",
+        "coverImage": "/projects/HellBridge/cover.png",
         "roles": ["Sole Developer", "Co-designer"],
         "highlights": [
-          "Innovated a ping-pong rendering system for seamless scene transitions.",
-          "Engineered a browser-based scene editor for real-time animation editing by animators.",
-          "Conceptualized and implemented interactive particle effects and sand transitions using shader.",
-          "Developed sophisticated lighting effects."
+          "Two-player cooperative gameplay.",
+          "Strict resource management combined with high-speed racing."
         ],
         "detail": [
           {
             "type": "paragraph",
             "value": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
           },
+          
           {
-            "value": "/projects/cvd/reel.mp4",
-            "type": "video"
-          },
-          {
-            "value": "/projects/cvd/1.jpg",
+            "value": "/projects/HellBridge/image1.png",
             "type": "image"
-          },
+          },      
           {
-            "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "type": "paragraph"
-          },
-          {
-            "value": "/projects/cvd/2.mp4",
-            "type": "video-muted"
-          },
-          {
-            "value": "/projects/cvd/3.jpg",
+            "value": "/projects/HellBridge/image2.png",
             "type": "image"
-          },
+          },     
           {
-            "value": "/projects/cvd/3.mp4",
-            "type": "video-muted"
-          },
+            "value": "/projects/HellBridge/image3.png",
+            "type": "image"
+          },     
           {
-            "value": "/projects/cvd/4.mp4",
-            "type": "video-muted"
+            "value": "/projects/HellBridge/image4.png",
+            "type": "image"
           }
         ]
       },
       {
         "name": "Caged Phoenix",
-        "year": "2024",
-        "keywords": ["Unreal Engine", "Shader"],
-        "shortDesc": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
-        "coverImage": "/projects/cvd/cover.jpg",
-        "roles": ["Sole Developer", "Co-designer"],
+        "year": "2021",
+        "keywords": ["Unity", "Galaxy Demon-inspired","Side-scrolling Platformer"],
+        "shortDesc": "This is a traditional Metroidvania game, where the player collects ability containers and their corresponding abilities to unlock different attacks and open doors in the part of the scene, challenging the bosses in the scene to complete the exploration of the whole map.",
+        "coverImage": "/projects/Caged Phoenix/cover.jpg",
+        "roles": ["Combat Designer", "Combat Programmer"],
         "highlights": [
-          "Innovated a ping-pong rendering system for seamless scene transitions.",
-          "Engineered a browser-based scene editor for real-time animation editing by animators.",
-          "Conceptualized and implemented interactive particle effects and sand transitions using shader.",
-          "Developed sophisticated lighting effects."
+          "A wide array of game skills with 6 distinct combinations.",
+          "Multi-boss design featuring 3 challenging bosses.",
+          "Rich design of minor enemies.",
+          "Diverse map designs spanning multiple types."
         ],
         "detail": [
           {
-            "type": "paragraph",
-            "value": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
-          },
-          {
-            "value": "/projects/cvd/reel.mp4",
-            "type": "video"
-          },
-          {
-            "value": "/projects/cvd/1.jpg",
+            "value": "/projects/Caged Phoenix/1.png",
             "type": "image"
           },
           {
-            "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "type": "paragraph"
-          },
-          {
-            "value": "/projects/cvd/2.mp4",
-            "type": "video-muted"
-          },
-          {
-            "value": "/projects/cvd/3.jpg",
+            "value": "/projects/Caged Phoenix/2.png",
             "type": "image"
           },
           {
-            "value": "/projects/cvd/3.mp4",
-            "type": "video-muted"
+            "value": "/projects/Caged Phoenix/3.png",
+            "type": "image"
           },
           {
-            "value": "/projects/cvd/4.mp4",
-            "type": "video-muted"
+            "value": "/projects/Caged Phoenix/4.png",
+            "type": "image"
+          },
+          {
+            "value": "/projects/Caged Phoenix/5.png",
+            "type": "image"
+          },
+          {
+            "value": "/projects/Caged Phoenix/6.png",
+            "type": "image"
+          },
+          {
+            "value": "/projects/Caged Phoenix/7.png",
+            "type": "image"
           }
         ]
       }
