@@ -1,3 +1,4 @@
+
 {
   "basic": {
     "name": "Liheng Zou",
@@ -148,7 +149,7 @@
         "year": "2025",
         "keywords": ["Unreal Engine", "Two-player Cooperative","Racing","Escape"],
         "shortDesc": "Welcome, Colas! Your mission is simple: go and KILL EACH OTHER WITH MENTOS! Ahahahaha!",
-        "coverImage": "/projects/Scratch It!/cover.png",
+        "coverImage": "/projects/CokeKiller/cover.png",
         "roles": ["Game Designer","Main Programmer"],
         "detail": [
           {
