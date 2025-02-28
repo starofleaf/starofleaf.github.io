@@ -144,36 +144,51 @@
         ]
       },
       {
-        "name": "Scratch It!",
+        "name": "CokeKiller",
         "year": "2025",
         "keywords": ["Unreal Engine", "Two-player Cooperative","Racing","Escape"],
-        "shortDesc": "Chainsaw and Drill Brothers' Escape from Hell: Is it a tale of mutual cooperation or a sinister conspiracy?",
-        "coverImage": "/projects/HellBridge/cover.png",
-        "roles": ["Sole Developer", "Co-designer"],
-        "highlights": [
-          "Two-player cooperative gameplay.",
-          "Strict resource management combined with high-speed racing."
-        ],
+        "shortDesc": "Welcome, Colas! Your mission is simple: go and KILL EACH OTHER WITH MENTOS! Ahahahaha!",
+        "coverImage": "/projects/Scratch It!/cover.png",
+        "roles": ["Game Designer","Main Programmer"],
         "detail": [
           {
             "type": "paragraph",
-            "value": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+            "value": "Step into the fizzy chaos of Cola World, where players take on the role of Cola People in an epic battle of carbonation! Armed with Mentos Guns, your mission is to outlast your opponents by showering them in Mentos mayhem."
           },
           
           {
-            "value": "/projects/HellBridge/image1.png",
+            "value": "/projects/CokeKiller/image1.png",
             "type": "image"
           },      
           {
-            "value": "/projects/HellBridge/image2.png",
+            "value": "/projects/CokeKiller/image2.png",
             "type": "image"
-          },     
+          },
           {
-            "value": "/projects/HellBridge/image3.png",
+            "value": "/projects/CokeKiller/image3.png",
             "type": "image"
-          },     
+          }
+        ]
+      },
+      {
+        "name": "Scratch It!",
+        "year": "2025",
+        "keywords": ["Unreal Engine", "Level-based","Puzzle","Action"],
+        "shortDesc": "First Jam in Duke. Theme is \"from scratch\". So we just made a game in which you scratch a lot.",
+        "coverImage": "/projects/Scratch It!/cover.png",
+        "roles": ["Game Designer"],
+        "detail": [
           {
-            "value": "/projects/HellBridge/image4.png",
+            "type": "paragraph",
+            "value": "Try to trap the ball on the spinning circle. Left click and drag to scratch on the board. Press and hold R to restart when you messed things up and Esc to pause when you feel like it."
+          },
+          
+          {
+            "value": "/projects/Scratch It!/image1.png",
+            "type": "image"
+          },      
+          {
+            "value": "/projects/Scratch It!/image2.png",
             "type": "image"
           }
         ]
